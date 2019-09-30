@@ -46,3 +46,8 @@ En la actualidad se encuentran muchos avances tecnológicos los cuales buscan pr
 
 Este proyecto tiene como objetivo darse a conocer a nivel nacional e internacional, el proyecto se centra en diseñar un sistema biometrico dactilar el cual busca que la persona que adquiera un vehículo se sienta confiad@ de que sera una buena inversión ya que este sistema le permite al conductor encender el vehículo por medio de la huella. Esta misma servirá como llave al momento de ingresar a su vehículo.Se le enviara una notificación a su móvil para confirmar que la persona que esta accediendo al vehículo es la misma, buscando total seguridad.
 
+# METODOS DE RECOLECCIÓN DE INFORMACIÓN 
+   ENCUESTA
+   
+   (https://picasaweb.google.com/108699595217543156594/6742506777237004929#6742506775260062162)
+
