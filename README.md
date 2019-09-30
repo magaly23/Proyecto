@@ -49,5 +49,5 @@ Este proyecto tiene como objetivo darse a conocer a nivel nacional e internacion
 # METODOS DE RECOLECCIÓN DE INFORMACIÓN 
    ENCUESTA
    
-   (https://picasaweb.google.com/108699595217543156594/6742506777237004929#6742506775260062162)
+   
 
