@@ -42,7 +42,5 @@ OBJETIVOS ESPECÍFICOS:
 En la actualidad se encuentran muchos avances tecnológicos los cuales buscan proporcionar beneficios a la sociedad (seguridad, servicios, transportes). El sistema de huella dactilar es una de las técnicas de acceso mas utilizadas no solamente por controlar accesos para ingreso y salida, es también un método de control personal dentro de las organizaciones , el proyecto de sistemas dactilares para vehículos se basa en reconocer la huella de la persona que va a manejar y al mismo tiempo esta se dispondrá a enviar una notificación de confirmación para cerciorarse que la persona que tiene la huella en ese momento es la misma que se dispone a manejar el vehículo, queriendo evidenciar la seguridad y confiabilidad de la huella dactilar en el vehículo , se busca establecer la importancia que se ha dado a estos sistemas en el sector de seguridad.
 
 
-# Alcance del proyecto
 
-Este proyecto tiene como objetivo darse a conocer a nivel nacional e internacional, el proyecto se centra en diseñar un sistema biometrico dactilar el cual busca que la persona que adquiera un vehículo se sienta confiad@ de que sera una buena inversión ya que este sistema le permite al conductor encender el vehículo por medio de la huella. Esta misma servirá como llave al momento de ingresar a su vehículo.Se le enviara una notificación a su móvil para confirmar que la persona que esta accediendo al vehículo es la misma, buscando total seguridad.
 
