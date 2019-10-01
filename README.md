@@ -51,6 +51,8 @@ Este proyecto tiene como objetivo darse a conocer a nivel nacional e internacion
    
    ![enter image description here](https://lh3.googleusercontent.com/OpZ_EVh7OhtLXwdzTsujDCgqSL4e4KO0HLtgC1v-1de3fQbXnFpbm2fzcxrbbim5cyXj4LaKvX8)
   
+  TABULACIÒN DE LA ENCUESTA 
+  
   ![enter image description here](https://lh3.googleusercontent.com/U68Nz8JUd-LcVo-o7IfB7nAlQH_PhELONkGYgdccb_xFzB3G4PZUOQv5pUzVBJQ9B4ClX3Tzg-I) 
   
   ![enter image description here](https://lh3.googleusercontent.com/Jj2R4ngpRAUhj7nGCWjD5RIPBoiFd6NiVxmzhF9unADnkB2jLP_POBH02Knlu5UcnUk1Kv0QYsY)
