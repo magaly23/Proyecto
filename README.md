@@ -53,7 +53,7 @@ Este proyecto tiene como objetivo darse a conocer a nivel nacional e internacion
   
   ![enter image description here](https://lh3.googleusercontent.com/Jj2R4ngpRAUhj7nGCWjD5RIPBoiFd6NiVxmzhF9unADnkB2jLP_POBH02Knlu5UcnUk1Kv0QYsY)
   
-  
+  ![enter image description here](https://lh3.googleusercontent.com/wQEe8OLBqUnnXE5efEadIOL7FShBEkgD3Lro_g7_2AJGHqwFAW9AXD3dyiqMREuu0riHNhZFOMU)
 
    
 
