@@ -42,35 +42,3 @@ OBJETIVOS ESPECÍFICOS:
 En la actualidad se encuentran muchos avances tecnológicos los cuales buscan proporcionar beneficios a la sociedad (seguridad, servicios, transportes). El sistema de huella dactilar es una de las técnicas de acceso mas utilizadas no solamente por controlar accesos para ingreso y salida, es también un método de control personal dentro de las organizaciones , el proyecto de sistemas dactilares para vehículos se basa en reconocer la huella de la persona que va a manejar y al mismo tiempo esta se dispondrá a enviar una notificación de confirmación para cerciorarse que la persona que tiene la huella en ese momento es la misma que se dispone a manejar el vehículo, queriendo evidenciar la seguridad y confiabilidad de la huella dactilar en el vehículo , se busca establecer la importancia que se ha dado a estos sistemas en el sector de seguridad.
 
 
-# Alcance del proyecto
-
-Este proyecto tiene como objetivo darse a conocer a nivel nacional e internacional, el proyecto se centra en diseñar un sistema biometrico dactilar el cual busca que la persona que adquiera un vehículo se sienta confiad@ de que sera una buena inversión ya que este sistema le permite al conductor encender el vehículo por medio de la huella. Esta misma servirá como llave al momento de ingresar a su vehículo.Se le enviara una notificación a su móvil para confirmar que la persona que esta accediendo al vehículo es la misma, buscando total seguridad.
-
-# METODOS DE RECOLECCIÓN DE INFORMACIÓN 
-   ENCUESTA
-   
-   ![enter image description here](https://lh3.googleusercontent.com/OpZ_EVh7OhtLXwdzTsujDCgqSL4e4KO0HLtgC1v-1de3fQbXnFpbm2fzcxrbbim5cyXj4LaKvX8)
-  
-  TABULACIÒN DE LA ENCUESTA 
-  
-  ![enter image description here](https://lh3.googleusercontent.com/U68Nz8JUd-LcVo-o7IfB7nAlQH_PhELONkGYgdccb_xFzB3G4PZUOQv5pUzVBJQ9B4ClX3Tzg-I) 
-  
-  ![enter image description here](https://lh3.googleusercontent.com/Jj2R4ngpRAUhj7nGCWjD5RIPBoiFd6NiVxmzhF9unADnkB2jLP_POBH02Knlu5UcnUk1Kv0QYsY)
-  
-![enter image description here](https://lh3.googleusercontent.com/A6DgRWsVGU_ikhiZZuGokcdaEdATSfPC7rnKi3Lji0T_P_Vu6VH1MTYoTY83sxrC1ZpQszoyktI)
-
-![enter image description here](https://lh3.googleusercontent.com/B7aTclFJouC5vT8LWrkg57w2hIHJf_VHkaZgvtNDQwZWUGCRxYa_KyuYR1LWGH0EPi-YasknjG4)
-
-![enter image description here](https://lh3.googleusercontent.com/AwT8ndE5jpldeYMy11wl-GzQWm-F5sWkSCq872GUaabuFQ8RIx5wCOKhn00-HmxKcFoBVsrgXvc)
-
-![enter image description here](https://lh3.googleusercontent.com/4Nk21qLT7Gu2uo0hv9fe3CCs8jBqW4f5Mz8NqUfpkuep2MLjRFH7ph07ZmYtXiKeDM8LoztbtQ0)
-
-![enter image description here](https://lh3.googleusercontent.com/k6fb89tkTFgRM2hLlEZmpdvBtqMtx-LXJSmt9wEEJjdR7D6uTpF0lcZ8R0GcekRIjxdkkxN9VOY)
-
-![enter image description here](https://lh3.googleusercontent.com/LnYSnWIqOi4wwKRuvUy8rR_3p5yWwwCuzmWaVu-aSEj9au5SOSwIK_9VugdLQbsHMMqcklQ5zEg)
-
-ENTREVISTA 
-
-![enter image description here](https://lh3.googleusercontent.com/61FM15hTBiF1iURFvcuWeAsi_qHfyArtogcBSKgxTc1oHRkJOnnFOFeLfWcAhnc2hrqnaifkPX4)
-
-![enter image description here](https://lh3.googleusercontent.com/X2zuqxEYjJEVV6cSATVJT9Thqn2OdlfidLGVR-E7-CC_Bkd2hk7-peL5QKbblFud1IESV2LTG7U)
