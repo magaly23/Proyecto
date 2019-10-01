@@ -71,5 +71,6 @@ Este proyecto tiene como objetivo darse a conocer a nivel nacional e internacion
 
 ENTREVISTA 
 
-![enter image description here](https://lh3.googleusercontent.com/w4BHjHRwQms3KH_IJ9Ye2Csw4pIwaPzip7OV3pJrPKLISLOX4WzXyg3Yt-mAKeLZMzm5S4c7C_g)
+![enter image description here](https://lh3.googleusercontent.com/61FM15hTBiF1iURFvcuWeAsi_qHfyArtogcBSKgxTc1oHRkJOnnFOFeLfWcAhnc2hrqnaifkPX4)
 
+![enter image description here](https://lh3.googleusercontent.com/X2zuqxEYjJEVV6cSATVJT9Thqn2OdlfidLGVR-E7-CC_Bkd2hk7-peL5QKbblFud1IESV2LTG7U)
