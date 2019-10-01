@@ -48,8 +48,8 @@ Este proyecto tiene como objetivo darse a conocer a nivel nacional e internacion
 
 # METODOS DE RECOLECCIÓN DE INFORMACIÓN 
    ENCUESTA
-   
-   [enter image description here](https://lh3.googleusercontent.com/U68Nz8JUd-LcVo-o7IfB7nAlQH_PhELONkGYgdccb_xFzB3G4PZUOQv5pUzVBJQ9B4ClX3Tzg-I)
-   
+  
+  ![enter image description here](https://lh3.googleusercontent.com/U68Nz8JUd-LcVo-o7IfB7nAlQH_PhELONkGYgdccb_xFzB3G4PZUOQv5pUzVBJQ9B4ClX3Tzg-I)
+
    
 
