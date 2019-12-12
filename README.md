@@ -45,36 +45,3 @@ En la actualidad se encuentran muchos avances tecnológicos los cuales buscan pr
 # Alcance del proyecto
 
 Este proyecto tiene como objetivo darse a conocer a nivel nacional e internacional, el proyecto se centra en diseñar un sistema biometrico dactilar el cual busca que la persona que adquiera un vehículo se sienta confiad@ de que sera una buena inversión ya que este sistema le permite al conductor encender el vehículo por medio de la huella. Esta misma servirá como llave al momento de ingresar a su vehículo.Se le enviara una notificación a su móvil para confirmar que la persona que esta accediendo al vehículo es la misma, buscando total seguridad.
-
-# METODOS DE RECOLECCIÓN DE INFORMACIÓN 
-   ENCUESTA
-   
-   ![enter image description here](https://lh3.googleusercontent.com/OpZ_EVh7OhtLXwdzTsujDCgqSL4e4KO0HLtgC1v-1de3fQbXnFpbm2fzcxrbbim5cyXj4LaKvX8)
-  
-  TABULACIÒN DE LA ENCUESTA 
-  
-  ![enter image description here](https://lh3.googleusercontent.com/U68Nz8JUd-LcVo-o7IfB7nAlQH_PhELONkGYgdccb_xFzB3G4PZUOQv5pUzVBJQ9B4ClX3Tzg-I) 
-  
-  ![enter image description here](https://lh3.googleusercontent.com/Jj2R4ngpRAUhj7nGCWjD5RIPBoiFd6NiVxmzhF9unADnkB2jLP_POBH02Knlu5UcnUk1Kv0QYsY)
-  
-![enter image description here](https://lh3.googleusercontent.com/A6DgRWsVGU_ikhiZZuGokcdaEdATSfPC7rnKi3Lji0T_P_Vu6VH1MTYoTY83sxrC1ZpQszoyktI)
-
-![enter image description here](https://lh3.googleusercontent.com/B7aTclFJouC5vT8LWrkg57w2hIHJf_VHkaZgvtNDQwZWUGCRxYa_KyuYR1LWGH0EPi-YasknjG4)
-
-![enter image description here](https://lh3.googleusercontent.com/AwT8ndE5jpldeYMy11wl-GzQWm-F5sWkSCq872GUaabuFQ8RIx5wCOKhn00-HmxKcFoBVsrgXvc)
-
-![enter image description here](https://lh3.googleusercontent.com/4Nk21qLT7Gu2uo0hv9fe3CCs8jBqW4f5Mz8NqUfpkuep2MLjRFH7ph07ZmYtXiKeDM8LoztbtQ0)
-
-![enter image description here](https://lh3.googleusercontent.com/k6fb89tkTFgRM2hLlEZmpdvBtqMtx-LXJSmt9wEEJjdR7D6uTpF0lcZ8R0GcekRIjxdkkxN9VOY)
-
-![enter image description here](https://lh3.googleusercontent.com/LnYSnWIqOi4wwKRuvUy8rR_3p5yWwwCuzmWaVu-aSEj9au5SOSwIK_9VugdLQbsHMMqcklQ5zEg)
-
-ENTREVISTA
-
-![enter image description here](https://lh3.googleusercontent.com/FpVOuBTWCACYtiyObzMRm8dLnPt9Sg-LfW3HnPT30fxhWKet4VDor_WOWHNXKubcPDMCDoitL9U)
-
-![enter image description here](https://lh3.googleusercontent.com/710HFEe-0fVCm0_V2nS9cXllO8IBnLekVqZoTbdpVjqF2J1LEkF69Yx_gWBvDORebPRggdS0FgU)
-
-![enter image description here](https://lh3.googleusercontent.com/CFc9DimAhO-cW1Ifc1Hzna3aYL2ha2lO-a4ehoHIHxJSKt0mrSM43UToj1QR4Hf69y4ZZKkjFfQ)
-
-![enter image description here](https://lh3.googleusercontent.com/5JhvGRkCMNJahi91Wy8wfCX95A21pWdyThpTuDgAFcqTB_ipO3aV5u8IW_3q6DcRkgmAchsyzRQ)
