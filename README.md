@@ -13,13 +13,8 @@
 *Asequible
 
 ## AUTOMÓVIL-HUELLA DACTILAR-NOTIFICACIÓN
-![enter image description here](https://lh3.googleusercontent.com/bjhp4xe9UGj2BMG4CVVnW4RG6GCpDRUAV8hnEVkdDquQ2vdhqZmXmLvLX-vWt53xfIyrNiAvL54)
 Carros eléctricos
-
-![enter image description here](https://lh3.googleusercontent.com/Q5DAeUoyzmEs-6eJz0kHgUaXNVkzdchSyOcOwoF_-C3xR2M2WQKm2Ajt11SQc_5fI68TZb1Dx5w)
 Estará ubicada en el manubrio del carro y sera desbloqueado con cualquier dedo de la mano.
-
-![enter image description here](https://lh3.googleusercontent.com/fXFavgAmTPC2Je90aXtBIwwCRYWQfSBTvE-mNmEbf50YWd6IaigcSoLALDksrZLOG087P2WUhbk)
 Se enviara una notificación al móvil para confirmar el encendido.
 
 ## OBJETIVOS
