@@ -1,7 +1,5 @@
 # ¡Sensor biometrico-Proyecto innovador!
 
-![enter image description here](https://drive.google.com/file/d/1gHmhdzIiNCXhmgTiNZmJ1gDj03rQA1Fw/view?usp=sharing)
-
 
 
 
